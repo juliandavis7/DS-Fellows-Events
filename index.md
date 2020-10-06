@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Brian Bagmanyar, Data Scientist at Google, Tues 10/13 A 11:10 am (more info [here](https://calpoly.joinhandshake.com/events/588491))
+
 You can use the [editor on GitHub](https://github.com/juliandavis7/ds-fellows-events/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -14,8 +16,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-- Brian Bagmanyar, Data Scientist at Google, Tues 10/13 A 11:10 am (more info [here](https://calpoly.joinhandshake.com/events/588491))
 
 Hello
 - Bulleted
