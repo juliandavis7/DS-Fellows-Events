@@ -6,7 +6,8 @@ This is an events page for the Cal Poly Data Science fellows.  We will post info
 
 ### Friday, 10/9
 - The UCSB Center for Responsible Machine Learning is hosting their [2020 Responsible Machine Learning Summit](https://ml.ucsb.edu/2020-responsible-machine-learning-summit)
-- “The special focus will be on artificial intelligence and machine learning for COVID-19. The broad range of topics will include epidemiological forecasting, machine learning for COVID-19 genomic analysis, drugs and vaccines, digital contact tracing, privacy and security, natural language processing for knowledge discovery, trustworthy AI, and health data processing and sharing.”
+“The special focus will be on artificial intelligence and machine learning for COVID-19. The broad range of topics will include epidemiological forecasting, machine learning for COVID-19 genomic analysis, drugs and vaccines, digital contact tracing, privacy and security, natural language processing for knowledge discovery, trustworthy AI, and health data processing and sharing.”
+
 Keynote Speakers:
 - Oren Etzioni CEO, Allen Institute for AI
 - Ryan Tibshirani, Associate Professor, Carnegie Mellon University
