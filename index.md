@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CCDSF SLO Events Page
 
 Brian Bagmanyar, Data Scientist at Google, Tues 10/13 A 11:10 am (more info [here](https://calpoly.joinhandshake.com/events/588491))
 
