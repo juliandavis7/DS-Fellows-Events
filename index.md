@@ -31,7 +31,7 @@ Google: AI for Security and Fraud Detection (through CS+AI club)
 ### Thursday, 10/29 at 2 pm
 
 Ben Weber, Data Scientist at Zynga + Cal Poly Alumni 
-- presentation on his book
+- presentation on his book, "Data Science In Production - Building Scalable Model Pipelines in Python"
 
 ### Thursday, 11/05
 Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
