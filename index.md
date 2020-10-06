@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+Brian Bagmanyar, Data Scientist at Google, Tues 10/13 A 11:10 am (more info here)
+
 - Bulleted
 - List
 
