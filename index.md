@@ -16,18 +16,18 @@ Keynote Speakers:
 - Jeannette M. Wing, Avanessians Director, Data Science Institute, Columbia University
 
 ### Tuesday, 10/13 at 11:10 am
-- Brian Bagmanyar, Data Scientist at Google (more info [here](https://calpoly.joinhandshake.com/events/588491))
+Brian Bagmanyar, Data Scientist at Google (more info [here](https://calpoly.joinhandshake.com/events/588491))
 
 ### Friday, 10/16
-- Sahl Kharaka, VP of Centene
+Sahl Kharaka, VP of Centene (major healthcare company)
 - presentation and Q+A
 
 ### Thursday, 10/22
-- Google: AI for Security and Fraud Detection (through CS+AI club)
+Google: AI for Security and Fraud Detection (through CS+AI club)
 
 ### Thursday, 10/29 at 2 pm
-- Ben Weber, Data Scientist at Zynga + Cal Poly Alumni 
+Ben Weber, Data Scientist at Zynga + Cal Poly Alumni 
 - presentation on his book
 
 ### Thursday, 11/05
-- Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
+Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
