@@ -1,40 +1,30 @@
-## CCDSF SLO Events Page
+# CCDSF SLO Events Page
+## Overview
+This is an events page for the Cal Poly Data Science fellows.  We will post information about weekly data science related events and activities.
 
-Brian Bagmanyar, Data Scientist at Google, Tues 10/13 A 11:10 am (more info [here](https://calpoly.joinhandshake.com/events/588491))
+## Events
 
-You can use the [editor on GitHub](https://github.com/juliandavis7/ds-fellows-events/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Friday, 10/9
+- The UCSB Center for Responsible Machine Learning is hosting their [2020 Responsible Machine Learning Summit](https://ml.ucsb.edu/2020-responsible-machine-learning-summit)
+- “The special focus will be on artificial intelligence and machine learning for COVID-19. The broad range of topics will include epidemiological forecasting, machine learning for COVID-19 genomic analysis, drugs and vaccines, digital contact tracing, privacy and security, natural language processing for knowledge discovery, trustworthy AI, and health data processing and sharing.”
+Keynote Speakers:
+- Oren Etzioni CEO, Allen Institute for AI
+- Ryan Tibshirani, Associate Professor, Carnegie Mellon University
+- Jeannette M. Wing, Avanessians Director, Data Science Institute, Columbia University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tuesday, 10/13 at 11:10 am
+- Brian Bagmanyar, Data Scientist at Google (more info [here](https://calpoly.joinhandshake.com/events/588491))
 
-### Markdown
+### Friday, 10/16
+- Sahl Kharaka, VP of Centene
+- presentation and Q+A
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Thursday, 10/22
+- Google: AI for Security and Fraud Detection (through CS+AI club)
 
-```markdown
-Syntax highlighted code block
+### Thursday, 10/29 at 2 pm
+- Ben Weber, Data Scientist at Zynga + Cal Poly Alumni 
+- presentation on his book
 
-# Header 1
-## Header 2
-### Header 3
-
-Hello
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliandavis7/ds-fellows-events/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thursday, 11/05
+- Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
