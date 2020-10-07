@@ -1,4 +1,4 @@
-# Data Science Fellows Events
+# Data Science Fellows - Events
 ## Fall 2020
 ## Overview
 This is an events page for the Cal Poly Data Science fellows.  We will post information about weekly data science related events and activities here.  Feel fee to participate in anything listed below.
