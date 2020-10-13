@@ -12,6 +12,7 @@ Brian Bagmanyar, Data Scientist at Google (more info [here](https://calpoly.join
 Join us for an engaging discussion with Cal Poly Statistics alumnus Brian Bahmanyar.  He will share insights from his work and career, as well ways that Cal Poly students can prepare for opportunities in this high-growth field. There will also be plenty of time to ask your own questions.
 
 Zoom link can be found [here](ttps://calpoly.zoom.us/j/81563673350?pwd=NXN6NVc5Mjg5NmY2WG00aXFPcUozZz09)
+
 Meeting ID: 815 6367 3350
 Passcode: 177090
 
