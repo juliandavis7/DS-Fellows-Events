@@ -14,6 +14,7 @@ Join us for an engaging discussion with Cal Poly Statistics alumnus Brian Bahman
 Zoom link can be found [here](ttps://calpoly.zoom.us/j/81563673350?pwd=NXN6NVc5Mjg5NmY2WG00aXFPcUozZz09)
 
 Meeting ID: 815 6367 3350
+
 Passcode: 177090
 
 ### Friday, 10/16
