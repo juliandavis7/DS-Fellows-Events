@@ -32,12 +32,11 @@ Sahl Kharaka, presentation and Q+A
 - Streams: For near real time actions
 
 ### Thursday, 10/29 at 2 pm
-
 Ben Weber, Data Scientist at Zynga + Cal Poly Alumni 
 - presentation on his book, "Data Science In Production - Building Scalable Model Pipelines in Python"
 
 ### Thursday, 11/05
 Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
 
-### Week 10 11/16 - 11/20
+### Week 10 (11/16 - 11/20)
 Data Science Fellows Research Check-In
