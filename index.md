@@ -5,24 +5,31 @@ This is an events page for the Cal Poly Data Science fellows.  We will post info
 
 ## Events
 
-### Tuesday, 10/13 11:10 am - 12:00 pm
-
-Brian Bagmanyar, Data Scientist at Google (more info [here](https://calpoly.joinhandshake.com/events/588491))
-
-Join us for an engaging discussion with Cal Poly Statistics alumnus Brian Bahmanyar.  He will share insights from his work and career, as well ways that Cal Poly students can prepare for opportunities in this high-growth field. There will also be plenty of time to ask your own questions.
-
-Zoom link can be found [here](ttps://calpoly.zoom.us/j/81563673350?pwd=NXN6NVc5Mjg5NmY2WG00aXFPcUozZz09)
-- Meeting ID: 815 6367 3350
-- Passcode: 177090
-
-### Friday, 10/16
-
-Sahl Kharaka, VP of Centene (major healthcare company)
-- presentation and Q+A
-
 ### Thursday, 10/22
 
 Google: AI for Security and Fraud Detection (through CS+AI club)
+
+### Friday, 10/23
+
+Sahl Kharaka, presentation and Q+A
+
+#### Talking Points
+1. Introduction
+- Graduated Cal Poly 1992 Mechanical Engineering 
+- Architect/Engineer for 15 years in Healthcare
+- VP of IT for 6 years at Centene
+- Currently a Cloud Solutions Architect at Centene
+
+2. Data Science Use Cases:
+- Care Management: predictive analytics for high risk members via claims / biometrics
+- Actuaries: Predictive Analytics on how much we pay in claims
+- Voice NLP: Training machine learning models for Medical Terminology
+- Biometrics: real time patient monitoring/predicting “issues”
+
+3. Technologies (cloud):
+- Data Ingestion Engines, Data Pre-Processing Tools, Data Lakes/Warehouses for Analytics
+- FHIR: Fast Healthcare Interoperability Resources
+- Streams: For near real time actions
 
 ### Thursday, 10/29 at 2 pm
 
