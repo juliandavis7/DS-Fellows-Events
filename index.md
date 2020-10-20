@@ -43,5 +43,5 @@ Ben Weber, Data Scientist at Zynga + Cal Poly Alumni
 ### Thursday, 11/05
 Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
 
-### Week 10 (11/16 - 11/20)
+### 11/16 - 11/20 (Week 10)
 Data Science Fellows Research Check-In
