@@ -1,7 +1,7 @@
 # Data Science Fellows - Events
 ## Fall 2020
 ## Overview
-This is an events page for the Cal Poly Data Science fellows.  We will post information about weekly data science related events and activities here.  Feel fee to participate in anything listed below.
+This is an events page for the Cal Poly Data Science fellows.  We will post information about weekly data science related events and activities here.  Feel free to participate in anything listed below.
 
 ## Events
 
@@ -30,6 +30,11 @@ Sahl Kharaka, presentation and Q+A
 - Data Ingestion Engines, Data Pre-Processing Tools, Data Lakes/Warehouses for Analytics
 - FHIR: Fast Healthcare Interoperability Resources
 - Streams: For near real time actions
+
+### Tuesday, 10/27 at 6 pm
+Bayesian vs Frequentist Happy Hour Discussion
+- Bayesian: Kelly Bodwin
+- Frequentist: Dennis Sun
 
 ### Thursday, 10/29 at 2 pm
 Ben Weber, Data Scientist at Zynga + Cal Poly Alumni 
