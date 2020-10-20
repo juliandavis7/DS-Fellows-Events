@@ -5,12 +5,17 @@ This is an events page for the Cal Poly Data Science fellows.  We will post info
 
 ## Events
 
-### Thursday, 10/22
+### Tuesday, 10/22 from 5-6 pm
+Lawrence Liverpool National Laboratory for Color Coded
+- Department of Energy research facility
+- Offering Data Science internships and full-time positions
 
+Zoom link [here](https://calpoly.zoom.us/j/81652572421)
+
+### Thursday, 10/22
 Google: AI for Security and Fraud Detection (through CS+AI club)
 
 ### Friday, 10/23
-
 Sahl Kharaka, presentation and Q+A
 
 #### Talking Points
@@ -31,12 +36,12 @@ Sahl Kharaka, presentation and Q+A
 - FHIR: Fast Healthcare Interoperability Resources
 - Streams: For near real time actions
 
-### Tuesday, 10/27 at 6 pm
+### Tuesday, 10/27 @ 6 pm
 Bayesian vs Frequentist Happy Hour Discussion
 - Bayesian: Kelly Bodwin
 - Frequentist: Dennis Sun
 
-### Thursday, 10/29 at 2 pm
+### Thursday, 10/29 @ 2 pm
 Ben Weber, Data Scientist at Zynga + Cal Poly Alumni 
 - presentation on his book, "Data Science In Production - Building Scalable Model Pipelines in Python"
 
