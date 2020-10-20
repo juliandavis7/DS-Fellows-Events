@@ -50,3 +50,4 @@ Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
 
 ### 11/16 - 11/20 (Week 10)
 Data Science Fellows Research Check-In
+
