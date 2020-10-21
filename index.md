@@ -14,7 +14,7 @@ Zoom link [here](https://calpoly.zoom.us/j/81652572421)
 
 ### Thursday, 10/22 @ 11:00 am
 Cal Poly CS+Artificial Intelligence will be hosting a guest speaker working on AI/ML at Google in the Security and Fraud Detection department. Come to learn more about AI/ML roles at Google!
-https://calpolydatasc-hus1647.slack.com/files/U018FGWNJET/F01D8BC3A2G/image.png
+![](https://calpolydatasc-hus1647.slack.com/files/U018FGWNJET/F01D8BC3A2G/image.png)
 - Google Meet link [here](https://meet.google.com/ctg-rhof-egr)
 
 ### Thursday, 10/22 @ 2:30 pm
