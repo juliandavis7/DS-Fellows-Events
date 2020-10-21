@@ -12,8 +12,12 @@ Lawrence Liverpool National Laboratory for Color Coded
 
 Zoom link [here](https://calpoly.zoom.us/j/81652572421)
 
+### Thursday, 10/22 @ 11:00 am
+Cal Poly CS+Artificial Intelligence will be hosting a guest speaker working on AI/ML at Google in the Security and Fraud Detection department. Come to learn more about AI/ML roles at Google!
+Google Meet link [here](https://meet.google.com/ctg-rhof-egr)
+
 ### Thursday, 10/22 @ 2:30 pm
-Grad School Q+A with two Cal Poly Alumni.  Please fill out this [form](https://forms.gle/ojnX4Niqcu4gLAuw8) with questions you'd like them to answer! 
+Grad School Q+A with two Cal Poly Alumni.  Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSck2EKOWuqpvViwex-RWL2TdqZwznnTEWo4cJNWkcfqCk_gBQ/viewform) with questions you'd like them to answer!
 
 #### Jenna Landy (Class of 2020) Stats + DS minor
 - interned for Cal Poly's Project Jupyter and Amazon AWS
@@ -22,9 +26,6 @@ Grad School Q+A with two Cal Poly Alumni.  Please fill out this [form](https://f
 #### Markelle Kelly (Class of 2020) Stats + DS minor
 - interned for Cal Poly's Project Jupyter and worked in NSK-Funded studies for the Stats Deptartment
 - currently pursuing PhD in CS at UCI
-
-### Thursday, 10/22
-Google: AI for Security and Fraud Detection (through CS+AI club)
 
 ### Friday, 10/23
 Sahl Kharaka, presentation and Q+A
