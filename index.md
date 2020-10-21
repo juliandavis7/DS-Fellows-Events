@@ -24,7 +24,7 @@ Grad School Q+A with two Cal Poly Alumni.  Please fill out this [form](https://d
 - currently pursuing PhD in Biostatistics with a focus on statistical genetics at Harvard
 
 #### Markelle Kelly (Class of 2020) Stats + DS minor
-- interned for Cal Poly's Project Jupyter and worked in NSK-Funded studies for the Stats Deptartment
+- interned for Cal Poly's Project Jupyter and worked in NSF-Funded studies for the Stats Deptartment
 - currently pursuing PhD in CS at UCI
 
 ### Friday, 10/23
