@@ -12,6 +12,17 @@ Lawrence Liverpool National Laboratory for Color Coded
 
 Zoom link [here](https://calpoly.zoom.us/j/81652572421)
 
+### Thursday, 10/22 @ 2:30 pm
+Grad School Q+A with two Cal Poly Alumni.  Please fill out this [form](https://forms.gle/ojnX4Niqcu4gLAuw8) with questions you'd like them to answer! 
+
+#### Jenna Landy (Class of 2020) Stats + DS minor
+- interned for Cal Poly's Project Jupyter and Amazon AWS
+- currently pursuing PhD in Biostatistics with a focus on statistical genetics at Harvard
+
+#### Markelle Kelly (Class of 2020) Stats + DS minor
+- interned for Cal Poly's Project Jupyter and worked in NSK-Funded studies for the Stats Deptartment
+- currently pursuing PhD in CS at UCI
+
 ### Thursday, 10/22
 Google: AI for Security and Fraud Detection (through CS+AI club)
 
