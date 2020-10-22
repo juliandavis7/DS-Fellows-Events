@@ -30,6 +30,7 @@ Grad School Q+A with two Cal Poly Alumni.  Please fill out this [form](https://d
 
 ### Friday, 10/23
 Sahl Kharaka, presentation and Q+A
+- Zoom link [here](https://centene.zoom.us/j/92412895509?pwd=SlEyVFlwK0x3bkRKWGlYcDYwTzQwUT09)
 
 #### Talking Points
 1. Introduction
