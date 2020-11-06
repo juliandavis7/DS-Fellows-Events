@@ -4,19 +4,15 @@
 This is an events page for the Cal Poly Data Science fellows.  We will post information about weekly data science related events and activities here.  Feel free to participate in anything listed below.
 
 ## Upcoming Events
-### Tuesday, 11/3 from 11:10am-12pm
-CSAI will be hosting a guest speaker from the Lawrence Livermore National Laboratory who will speak about opportunities at their supercomputing lab!
-
-Zoom link [here](https://llnlfed.webex.com/llnlfed/j.php?MTID=m3292d0343a06ad980bf20a7e226cf917)
-- Meeting Password: VJm9bPff*56
-
-### Thursday, 11/05
-Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
-
-### 11/16 - 11/20 (Week 10)
+### 11/16 - 11/21 (Week 10)
 Data Science Fellows Research Check-In
 
 ## Past Events
+### Tuesday, 11/3 from 11:10am-12pm
+CSAI will be hosting a guest speaker from the Lawrence Livermore National Laboratory who will speak about opportunities at their supercomputing lab!
+
+### Thursday, 11/5
+Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
 
 ### Tuesday, 10/27 @ 6-7 pm
 Bayesian vs Frequentist Happy Hour Discussion
