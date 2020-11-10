@@ -3,7 +3,11 @@
 ## Overview
 This is an events page for the Cal Poly Data Science fellows.  We will post information about weekly data science related events and activities here.  Feel free to participate in anything listed below.
 
-## Upcoming Events
+## Upcoming Events 
+### Thursday, 11/12 @ 2pm
+Foaad is hosting a talk by Cal Poly alum and Chief Architect at Gap, Inc.
+Zoom link [here](https://calpoly.zoom.us/my/foaad)
+
 ### 11/16 - 11/21 (Week 10)
 Data Science Fellows Research Check-In
 
@@ -14,22 +18,22 @@ CSAI will be hosting a guest speaker from the Lawrence Livermore National Labora
 ### Thursday, 11/5
 Microsoft: Computer Vision Development for Enterprise (through CS+AI club)
 
-### Tuesday, 10/27 @ 6-7 pm
+### Tuesday, 10/27 @ 6-7pm
 Bayesian vs Frequentist Happy Hour Discussion
 
-### Thursday, 10/29 @ 2-3 pm
+### Thursday, 10/29 @ 2-3pm
 Ben Weber, Data Scientist at Zynga + Cal Poly Alumni 
 - presentation on his book, "Data Science In Production - Building Scalable Model Pipelines in Python"
 
-### Tuesday, 10/22 from 5-6 pm
+### Tuesday, 10/22 from 5-6pm
 Lawrence Liverpool National Laboratory for Color Coded
 - Department of Energy research facility
 - Offering Data Science internships and full-time positions
 
-### Thursday, 10/22 @ 11:00 am
+### Thursday, 10/22 @ 11:00am
 Cal Poly CS+Artificial Intelligence will be hosting a guest speaker working on AI/ML at Google in the Security and Fraud Detection department. Come to learn more about AI/ML roles at Google!
 
-### Thursday, 10/22 @ 2:30 pm
+### Thursday, 10/22 @ 2:30pm
 Grad School Q+A with two Cal Poly Alumni.
 
 #### Jenna Landy (Class of 2020) Stats + DS minor
