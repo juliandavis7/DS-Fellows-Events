@@ -4,14 +4,13 @@
 This is an events page for the Cal Poly Data Science fellows.  We will post information about weekly data science related events and activities here.  Feel free to participate in anything listed below.
 
 ## Upcoming Events 
+There are no upcoming event until Winter 2021.
+
+## Past Events
 ### Thursday, 11/12 @ 2pm
 Foaad is hosting a talk by Cal Poly alum and Chief Architect at Gap, Inc.
 Zoom link [here](https://calpoly.zoom.us/my/foaad)
 
-### 11/16 - 11/21 (Week 10)
-Data Science Fellows Research Check-In
-
-## Past Events
 ### Tuesday, 11/3 from 11:10am-12pm
 CSAI will be hosting a guest speaker from the Lawrence Livermore National Laboratory who will speak about opportunities at their supercomputing lab!
 
