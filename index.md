@@ -1,10 +1,12 @@
 # Data Science Fellows - Events
-## Fall 2020
+## Winter 2020
 ## Overview
 This is an events page for the Cal Poly Data Science fellows.  We will post information about weekly data science related events and activities here.  Feel free to participate in anything listed below.
 
 ## Upcoming Events 
-There are no upcoming event until Winter 2021.
+### Wednesday, 2/10 @ 4-5pm
+Trimble Co.
+
 
 ## Past Events
 ### Thursday, 11/12 @ 2pm
