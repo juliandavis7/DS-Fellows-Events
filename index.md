@@ -3,7 +3,8 @@
 ## Overview
 This is an events page for the Cal Poly Data Science fellows.  We will post information about weekly data science related events and activities here.  Feel free to participate in anything listed below.
 
-## Upcoming Events 
+## Upcoming Events
+This [zoom link](https://calpoly.zoom.us/j/88226816039) is for all of our events.
 ### Wednesday, 2/10 @ 4-5pm
 Trimble Co.
 
