@@ -8,6 +8,8 @@ This is an events page for the Cal Poly Data Science fellows.  We will post info
 Trimble Co.
 
 
+
+
 ## Past Events
 ### Thursday, 11/12 @ 2pm
 Foaad is hosting a talk by Cal Poly alum and Chief Architect at Gap, Inc.
