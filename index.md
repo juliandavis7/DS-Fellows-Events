@@ -5,11 +5,12 @@ This is an events page for the Cal Poly Data Science fellows.  We will post info
 
 ## Upcoming Events
 This [zoom link](https://calpoly.zoom.us/j/88226816039) is for all of our events.
-### Wednesday, 2/10 @ 4-5pm
-Trimble Co.
 
+### Wendesday, 2/3 @ 4:10-5pm
+Sarah Ford works for Google and will give a talk centering around Git Version Control.
 
-
+### Wednesday, 2/10 @ 4:10-5pm
+Raghuram will give a talk about his experience working for Trimble Co.
 
 ## Past Events
 ### Thursday, 11/12 @ 2pm
