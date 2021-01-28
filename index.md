@@ -7,7 +7,7 @@ This is an events page for the Cal Poly Data Science fellows.  We will post info
 This [zoom link](https://calpoly.zoom.us/j/88226816039) is for all of our events.
 
 ### Wendesday, 2/3 @ 4:10-5pm
-Sarah Ford works for Google and will give a talk about Git.
+Sarah Ford works for Google and will give a talk: "Mastering the porcelain git commands"
 
 ### Wednesday, 2/10 @ 4:10-5pm
 Raghuram will give a talk about his experience working for Trimble Co.
